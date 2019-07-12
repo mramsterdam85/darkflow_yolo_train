@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>000008.jpg</filename>
+	<path>/Users/kevin.nguyen/Projects/darkflow/train/images/000008.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>920</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>51</ymin>
+			<xmax>794</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>
