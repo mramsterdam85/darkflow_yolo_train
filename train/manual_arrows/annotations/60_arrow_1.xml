@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images/arrows</folder>
+	<folder>images</folder>
 	<filename>60_arrow_1.jpg</filename>
-	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/arrow_1.jpg</path>
+	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/60_arrow_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>54</xmin>
 			<ymin>402</ymin>
-			<xmax>108</xmax>
-			<ymax>496</ymax>
+			<xmax>124</xmax>
+			<ymax>480</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -282,7 +282,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>576</xmin>
-			<ymin>193</ymin>
+			<ymin>182</ymin>
 			<xmax>673</xmax>
 			<ymax>274</ymax>
 		</bndbox>

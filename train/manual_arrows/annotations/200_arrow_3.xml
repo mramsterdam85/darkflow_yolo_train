@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images/arrows</folder>
+	<folder>images</folder>
 	<filename>200_arrow_3.jpg</filename>
-	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/arrow_3.jpg</path>
+	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/200_arrow_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>308</xmin>
-			<ymin>521</ymin>
-			<xmax>391</xmax>
-			<ymax>579</ymax>
+			<xmin>321</xmin>
+			<ymin>509</ymin>
+			<xmax>362</xmax>
+			<ymax>578</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>279</xmin>
-			<ymin>438</ymin>
-			<xmax>392</xmax>
-			<ymax>516</ymax>
+			<xmin>292</xmin>
+			<ymin>450</ymin>
+			<xmax>380</xmax>
+			<ymax>499</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,9 +41,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>274</xmin>
-			<ymin>503</ymin>
-			<xmax>334</xmax>
+			<xmin>293</xmin>
+			<ymin>492</ymin>
+			<xmax>315</xmax>
 			<ymax>545</ymax>
 		</bndbox>
 	</object>
@@ -65,8 +65,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>284</xmin>
-			<ymin>340</ymin>
+			<xmin>286</xmin>
+			<ymin>357</ymin>
 			<xmax>352</xmax>
 			<ymax>400</ymax>
 		</bndbox>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>231</xmin>
-			<ymin>318</ymin>
-			<xmax>297</xmax>
-			<ymax>364</ymax>
+			<xmin>242</xmin>
+			<ymin>322</ymin>
+			<xmax>284</xmax>
+			<ymax>372</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,8 +90,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>268</xmin>
-			<ymin>531</ymin>
-			<xmax>309</xmax>
+			<ymin>516</ymin>
+			<xmax>302</xmax>
 			<ymax>559</ymax>
 		</bndbox>
 	</object>

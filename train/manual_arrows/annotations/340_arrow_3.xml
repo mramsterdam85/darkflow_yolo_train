@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images/arrows</folder>
-	<filename>340_arrow_3.jpg</filename>
-	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/arrow_3.jpg</path>
+	<folder>images</folder>
+	<filename>40_arrow_3.jpg</filename>
+	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/40_arrow_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>507</xmin>
-			<ymin>318</ymin>
-			<xmax>590</xmax>
-			<ymax>376</ymax>
+			<xmin>403</xmin>
+			<ymin>250</ymin>
+			<xmax>462</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>455</xmin>
-			<ymin>374</ymin>
-			<xmax>569</xmax>
-			<ymax>452</ymax>
+			<xmin>424</xmin>
+			<ymin>301</ymin>
+			<xmax>500</xmax>
+			<ymax>342</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>537</xmin>
-			<ymin>376</ymin>
-			<xmax>597</xmax>
-			<ymax>417</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>arrow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>426</xmin>
-			<ymin>426</ymin>
-			<xmax>510</xmax>
-			<ymax>493</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>arrow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>423</xmin>
-			<ymin>475</ymin>
-			<xmax>490</xmax>
-			<ymax>535</ymax>
+			<xmin>448</xmin>
+			<ymin>245</ymin>
+			<xmax>503</xmax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -78,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>446</xmin>
-			<ymin>540</ymin>
-			<xmax>512</xmax>
-			<ymax>585</ymax>
+			<ymin>359</ymin>
+			<xmax>515</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +65,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>571</xmin>
-			<ymin>376</ymin>
-			<xmax>612</xmax>
-			<ymax>405</ymax>
+			<xmin>487</xmin>
+			<ymin>397</ymin>
+			<xmax>542</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>401</ymin>
+			<xmax>606</xmax>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>229</ymin>
+			<xmax>510</xmax>
+			<ymax>279</ymax>
 		</bndbox>
 	</object>
 </annotation>

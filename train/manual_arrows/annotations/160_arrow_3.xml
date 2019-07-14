@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images/arrows</folder>
+	<folder>images</folder>
 	<filename>160_arrow_3.jpg</filename>
-	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/arrow_3.jpg</path>
+	<path>/Users/kevin.nguyen/Projects/cv_auto_diagram/arrow_detector/images/160_arrow_3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>234</xmin>
-			<ymin>449</ymin>
-			<xmax>317</xmax>
-			<ymax>507</ymax>
+			<xmin>259</xmin>
+			<ymin>435</ymin>
+			<xmax>302</xmax>
+			<ymax>505</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,21 +29,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>255</xmin>
+			<xmin>282</xmin>
 			<ymin>373</ymin>
-			<xmax>369</xmax>
-			<ymax>451</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>arrow</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>227</xmin>
-			<ymin>408</ymin>
-			<xmax>287</xmax>
+			<xmax>324</xmax>
 			<ymax>449</ymax>
 		</bndbox>
 	</object>
@@ -53,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>314</xmin>
-			<ymin>332</ymin>
+			<xmin>253</xmin>
+			<ymin>393</ymin>
+			<xmax>279</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>336</ymin>
 			<xmax>398</xmax>
-			<ymax>399</ymax>
+			<ymax>376</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -67,8 +67,8 @@
 		<bndbox>
 			<xmin>334</xmin>
 			<ymin>290</ymin>
-			<xmax>401</xmax>
-			<ymax>350</ymax>
+			<xmax>402</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>312</xmin>
+			<xmin>316</xmin>
 			<ymin>240</ymin>
-			<xmax>378</xmax>
-			<ymax>285</ymax>
+			<xmax>355</xmax>
+			<ymax>296</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -90,8 +90,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>212</xmin>
-			<ymin>420</ymin>
-			<xmax>253</xmax>
+			<ymin>401</ymin>
+			<xmax>255</xmax>
 			<ymax>449</ymax>
 		</bndbox>
 	</object>
